@@ -247,6 +247,7 @@ pagination.pagerSize = 5
       readOtherPosts = "Read other posts"
       newerPosts = "Newer posts"
       olderPosts = "Older posts"
+      posts_for = "Posts for"  # used e.g. with tags (hugo 'terms' in general)
       missingContentMessage = "Page not found..."
       missingBackButtonLabel = "Back to home page"
       words = "words"
