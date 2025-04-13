@@ -255,6 +255,7 @@ pagination.pagerSize = 5
       minute = "minute"
       minutes = "minutes"
       to_read = "to read"
+      menuTitle = "Menu"
 
       [languages.en.params.logo]
         logoText = "Terminal"
