@@ -493,9 +493,12 @@ blockquote.twitter-tweet::before {
   height: 60px;
 }
 
-iframe[src*="youtube.com"] {
+
+iframe {
   border: 8px solid var(--accent) !important;
   padding: 8px !important;
+  width: 100%;
+	aspect-ratio: 16/10;
 }
 
 @media (max-width: 684px) {
@@ -517,3 +520,4 @@ iframe[src*="youtube.com"] {
     display: initial;
   }
 }
+
